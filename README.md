@@ -14,6 +14,7 @@ Here's every single tool that I can use! <br><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📚 Currently learning:
+Here's what I'm currently learning! <br><br>
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ## 👀 Fun facts about me:
