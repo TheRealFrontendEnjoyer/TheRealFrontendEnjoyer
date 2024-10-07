@@ -33,5 +33,4 @@ Here's what I'm currently learning! <br><br>
 - *Maybe* sleep a bit more.
 
 ## 🌐 Let's get in contact:
-I currently do not have any public way of contacting me.
-If that changes in the future, this will be updated.
+I currently do not have any public way of contacting me.<br>If that changes in the future, this will be updated.
