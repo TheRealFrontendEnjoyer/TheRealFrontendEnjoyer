@@ -21,11 +21,11 @@ Here's what I'm currently learning! <br><br>
 - Even though I can do both Frontend and Backend, I rather do Frontend since I enjoy more the visual side of a website than the functional side.
 - I really enjoy doing UI / UX, it's probably my favorite part of making a website.
 - I can either have too much energy to waste or too little energy to waste.
+- I'm a really big Rhythm game and VR Enthusiast!
 
 ## 🤹 Other skills I have:
 - I've been into Video Editing and Graphic Design for the past 5 years!
 - I make music in my free time! (Nothing professional, just something I do for fun)
-- I'm a really big Rhythm game and VR Enthusiast!
 
 ## 🏁 Goals:
 - Improve in PHP and deepen my knowledge with Frameworks;
