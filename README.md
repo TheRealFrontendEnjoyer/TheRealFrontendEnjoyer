@@ -1,5 +1,9 @@
+<div align="center">
+
 # Welcome to my profile! 👋
 I'm a Web Development Student from Portugal 🇵🇹
+
+</div>
 
 ## Languages I can code in:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
