@@ -5,7 +5,7 @@ I'm a Web Development Student from Portugal 🇵🇹
 
 </div>
 
-## 💻 What am I confortable with?:
+## 💭 What am I confortable with?:
 Here's every single tool that I can use! <br><br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -32,5 +32,9 @@ Here's what I'm currently learning! <br><br>
 - Finish making my own website;
 - *Maybe* sleep a bit more.
 
-## 🌐 Let's get in contact:
-I currently do not have any public way of contacting me.<br>If that changes in the future, this will be updated.
+## 🖥️ Software I use:
+Here are some of the tools I use! <br><br>
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL%20Studio-3E9B4A?style=for-the-badge&logo=flstudio&logoColor=white)
