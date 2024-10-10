@@ -18,6 +18,7 @@ Here's what I'm currently learning! <br><br>
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ## 👀 Fun facts about me:
+- I'm currently studying Web Development!
 - Even though I can do both Frontend and Backend, I rather do Frontend since I enjoy more the visual side of a website than the functional side.
 - I really enjoy doing UI / UX, it's probably my favorite part of making a website.
 - I can either have too much energy to waste or too little energy to waste.
@@ -30,4 +31,5 @@ Here's what I'm currently learning! <br><br>
 ## 🏁 Goals:
 - Improve in PHP and deepen my knowledge with Frameworks;
 - Finish making my own website;
+- Learn more Dart;
 - *Maybe* sleep a bit more.
