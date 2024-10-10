@@ -34,5 +34,5 @@ Here's what I'm currently learning! <br><br>
 - Learn more Dart;
 - *Maybe* sleep a bit more.
 
-## My website!
+## 🌐 My website!
 https://pedrooof.github.io/mahwebsite/
