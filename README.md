@@ -16,6 +16,7 @@ Here's every single tool that I can use! <br><br>
 ## 📚 Currently learning:
 Here's what I'm currently learning! <br><br>
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ## 👀 Fun facts about me:
 - I'm currently studying Web Development!
