@@ -33,6 +33,7 @@ Here's what I'm currently learning! <br><br>
 - Improve in PHP and deepen my knowledge with Frameworks;
 - Finish making my own website;
 - Learn more Dart;
+- Learn more Lua;
 - *Maybe* sleep a bit more.
 
 ## 🌐 My website!
