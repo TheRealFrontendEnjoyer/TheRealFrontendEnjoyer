@@ -1,40 +1,20 @@
 <div align="center">
 
-# Welcome to my profile! 👋
-I'm a Web Development Student from Portugal 🇵🇹
+## Hey there! 👋
+I'm Luna, a Web Developer based in Portugal. 🇵🇹
 
 </div>
 
-## 💭 What am I confortable with?:
-Here's every single tool that I can use! <br><br>
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+I work mainly with Frontend, with HTML, CSS and JS but I can also do Backend with PHP and SQL.
+*I can also work with LUA and Dart!*
 
-## 📚 Currently learning:
-Here's what I'm currently learning! <br><br>
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+I just do small Web based projects with whatever comes to my mind.
 
-## 👀 Fun facts about me:
-- I'm currently studying Web Development!
-- Even though I can do both Frontend and Backend, I rather do Frontend since I enjoy more the visual side of a website than the functional side.
-- I really enjoy doing UI / UX, it's probably my favorite part of making a website.
-- I can either have too much energy to waste or too little energy to waste.
-- I'm a really big Rhythm game and VR Enthusiast!
+Currently working mainly on [Hosting Tool](https://github.com/TheRealFrontendEnjoyer/hosting-tool)!
+*A Tool to help Hosts that organize RP-Based events in VRChat!*
 
-## 🤹 Other skills I have:
-- I've been into Video Editing and Graphic Design for the past 5 years!
-- I make music in my free time! (Nothing professional, just something I do for fun)
-
-## 🏁 Goals:
-- Improve in PHP and deepen my knowledge with Frameworks;
-- Finish making my own website;
-- Learn more Dart;
-- Learn more Lua;
-- *Maybe* sleep a bit more.
-
-## 🌐 My website!
-https://therealfrontendenjoyer.github.io/mahwebsite/
+**Fun Facts:**
+- I really like Abandonware!
+- I enjoy collecting old consoles and games.
+- One of my favorite activities of all time is editing videos!
+- As of right now, I'm a student doing projects on the side for fun.
