@@ -11,7 +11,7 @@ I work mainly with Frontend, with HTML, CSS and JS but I can also do Backend wit
 I just do small Web based projects with whatever comes to my mind.
 
 Currently working mainly on [Hosting Tool](https://github.com/TheRealFrontendEnjoyer/hosting-tool)! <br>
-*A Tool to help Hosts that organize RP-Based events in VRChat!*
+*A Tool to help Hosts organize RP-Based events in VRChat!*
 
 **Fun Facts:**
 - I really like Abandonware!
